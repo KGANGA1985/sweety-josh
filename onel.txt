@@ -1,1 +1,2 @@
 hi this is the first example of sample notepad
+second time opened the doc and entered this line.
